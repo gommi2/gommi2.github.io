@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: 홈
-  categories: 카테고리
-  tags: 태그
-  archives: 아카이브
-  about: 정보
+  home: H O M E
+  categories: C A T E G O R I E S
+  tags: T A G S
+  archives: A R C H I V E S
+  about: A B O U T
 
 # the text displayed in the search bar & search results
 search:
