@@ -201,3 +201,4 @@ jekyll-archives:
 plugins:
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-remote-theme
