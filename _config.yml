@@ -199,6 +199,9 @@ jekyll-archives:
 
 
 plugins:
-  - jekyll-include-cache
-  - jekyll-archives
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
