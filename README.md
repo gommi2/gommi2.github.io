@@ -92,3 +92,8 @@ This project is published under [MIT License][license].
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [ko-fi]: https://ko-fi.com/coteschung/
 [donation]: https://sponsor.cotes.page/
+
+
+git add .
+git commit -m "trigger redeploy"
+git push
